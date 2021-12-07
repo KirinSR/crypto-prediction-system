@@ -1,7 +1,7 @@
 # Cryptocurrency-Price-Prediction
 
 Cryptocurrency Price Prediction Using LSTM neural network  
-See [[Group8_18ec012_18ec031_18ec043.pptx][the linked ppt]] for details
+See [the linked ppt](Group8_18ec012_18ec031_18ec043.pptx) for details
 
 ## Cryptocurrency line plot
 
